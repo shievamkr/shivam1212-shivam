@@ -6,7 +6,7 @@
 <a href="https://twitter.com/shivam">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:shivam@gmail.com">
+<a href="mailto:shivamkrsksk@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/shivam1212-shivam">
