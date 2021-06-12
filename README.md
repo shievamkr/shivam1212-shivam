@@ -16,7 +16,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & i am currently pursuing B.Tech in Computer Science </br>
+🎓 I’m an Open-Source enthusiast & i am currently pursuing B.Tech </br>
 - 👨‍💻 👀 I’m interested in machine learning and data analytics </br>
 - 🌱 I’m currently developing a video Editor softare (tech :- python)
 - 💞️ I’m looking to collaborate on machine learning developer to share stuffs and make a proffessional video Editor Software.
